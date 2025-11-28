@@ -1,4 +1,8 @@
-* Note： You need to download CMU Graphics as a prerequisite for running this program.
+* Note： This project uses the cmu_graphics library provided by Carnegie Mellon University (15-112). 
+The library is not included in this repository due to licensing.
+To run this project, install it via:
+pip install cmu_graphics
+
 1. Project Title: Kitten Fishing
 
 
