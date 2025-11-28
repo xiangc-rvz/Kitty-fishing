@@ -1,0 +1,34 @@
+1. Project Title: Kitten Fishing
+
+
+2. Project Description:
+
+Kitten Fishing is a role-playing fishing game. Players act as fishing assistants to help kitten customers get the fish they want.
+
+Gameplay:
+1. Select the target fish: Each cat has its favorite color fish, and the target is displayed next to the cat.
+2. Operate the player:
+• Use the arrow keys to move the player.
+• Press the R key to control the swing of the fishing line, and press the K key to cast the fishing line.
+• Press the S key to switch the bait color to attract the target fish.
+3. Fishing:
+• After catching the target fish, click on the fish to quickly fill the energy bar to complete the capture.
+• Follow the task requirements and help the cat fulfill all wishes!
+
+Note:
+• Non-target fish will not be caught successfully.
+• Fish may escape from the bait, precise control is the key!
+
+
+3. Run Instructions: 
+
+Please run the file named "mian.py".
+
+
+4. Shortcut Commands：
+
+Left, right, up, and down keys: move the player
+r: switch to swing mode k: cast the fishing line
+c: switch to mouse control mode click: cast the fishing line
+space: reset the fishing line
+s: switch the bait color
